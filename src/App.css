@@ -1,0 +1,33 @@
+.im{
+  height: 240px;
+  width: 240px;
+  float: left;
+  padding-right: 30px;
+  border-radius: 50%;
+  padding-left: 30px;
+}
+body{
+font-family: fantasy;
+}
+.bt{
+  border-radius: 2px;
+  background-color: #555555;
+  color: white;
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+body {
+    background:  #23a6d5;
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+h2,h1{
+margin-top: 70px;
+color: darkslategray;
+}
